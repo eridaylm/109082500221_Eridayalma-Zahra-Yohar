@@ -34,7 +34,8 @@ func main() {
 
 ##### Output 
 ![Screenshot Output Unguided 1_1](https://github.com/eridaylm/10902500221_Eridayalma/blob/main/Modul2/Output/output-soal1.jpeg)
-[Program ini buat baca tiga input string dari user lalu disimpan di variabel satu, dua, dan tiga. Setelah itu program nampilin dulu urutan awalnya. Selanjutnya program nuker posisi datanya pakai variabel temp sebagai penyimpanan sementara. Nilai pertama dipindah ke belakang, nilai kedua jadi pertama, dan nilai ketiga jadi kedua. Terus di akhir, program nampilin urutan baru yang udah berubah. Jadi intinya program ini cuma buat geser urutan tiga data string.]
+Penjelasan : 
+Program ini buat baca tiga input string dari user lalu disimpan di variabel satu, dua, dan tiga. Setelah itu program nampilin dulu urutan awalnya. Selanjutnya program nuker posisi datanya pakai variabel temp sebagai penyimpanan sementara. Nilai pertama dipindah ke belakang, nilai kedua jadi pertama, dan nilai ketiga jadi kedua. Terus di akhir, program nampilin urutan baru yang udah berubah. Jadi intinya program ini cuma buat geser urutan tiga data string.
 
 ### 2. [Soal 2]
 #### 2b.go
@@ -73,7 +74,8 @@ func main() {
 
 ##### Output 
 ![Screenshot Output Unguided 1_1](https://github.com/eridaylm/10902500221_Eridayalma/blob/main/Modul2/Output/output-soal2.jpeg)
-[Program ini membaca 4 input warna dari user sebanyak 5 kali percobaan. Setiap input dicek apakah urutannya merah, kuning, hijau, ungu. Kalau ada yang ngga sesuai, maka berhasil menjadi false. Di akhir program nanti ditampilkan apakah input warna tersebut sesuai atau ngga.]
+Penjelasan : 
+Program ini membaca 4 input warna dari user sebanyak 5 kali percobaan. Setiap input dicek apakah urutannya merah, kuning, hijau, ungu. Kalau ada yang ngga sesuai, maka berhasil menjadi false. Di akhir program nanti ditampilkan apakah input warna tersebut sesuai atau ngga.
 
 ### 3. [Soal 3]
 #### 2c.go
@@ -118,5 +120,6 @@ func main() {
 
 ##### Output 
 ![Screenshot Output Unguided 1_1](https://github.com/eridaylm/10902500221_Eridayalma/blob/main/Modul2/Output/output-soal3.jpeg)
-[Program ini buat ngitung biaya kirim parsel dari beratnya. User masukin berat dalam gram, lalu diubah jadi kg dan sisa gram.
-Biaya 1 kg = 10.000. Kalau ada sisa gram dan berat ≤ 10 kg, sisa gram ikut dihitung. Kalau > 10 kg, sisa gramnya gratis. Terakhir program nampilin detail berat dan total biayanya.]
+Penjelasan :
+Program ini buat ngitung biaya kirim parsel dari beratnya. User masukin berat dalam gram, lalu diubah jadi kg dan sisa gram.
+Biaya 1 kg = 10.000. Kalau ada sisa gram dan berat ≤ 10 kg, sisa gram ikut dihitung. Kalau > 10 kg, sisa gramnya gratis. Terakhir program nampilin detail berat dan total biayanya.
