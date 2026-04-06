@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 2 - Algoritma Pemrograman 2 </h1>
+# <h1 align="center">Laporan Praktikum Modul 5 - Algoritma Pemrograman 2 </h1>
 <p align="center">Eridayalma Zahra Yohar - 109082500221</p>
 
 ## Modul 5 
