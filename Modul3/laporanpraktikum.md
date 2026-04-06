@@ -1,7 +1,7 @@
 # <h1 align="center">Laporan Praktikum Modul 2 - Algoritma Pemrograman 2 </h1>
 <p align="center">Eridayalma Zahra Yohar - 109082500221</p>
 
-## Modul 2 
+## Modul 3 
 
 ### 1. Minggu ini, mahasiswa Fakultas Informatika mendapatkan tugas dari mata kuliah matematika diskrit untuk mempelajari kombinasi dan permutasi. Jonas salah seorang mahasiswa, iseng untuk mengimplementasikannya ke dalam suatu program. Oleh karena itu bersediakah kalian membantu Jonas? (tidak tentunya ya :p)
 #### 1.go
@@ -102,7 +102,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/eridaylm/10902500221_Eridayalma/blob/main/Modul2/Output/output-soal2.png)
+![Screenshot Output Unguided 1_1](https://github.com/eridaylm/10902500221_Eridayalma/blob/main/Modul3/Output/output-soal2.png)
 Penjelasan : 
 Program ini itu tentang fungsi komposisi matematika, di soal dikasih tiga fungsi :
     a. f(x) = x²
@@ -174,7 +174,7 @@ func main() {
 ### Output Unguided :
 
 ##### Output 
-![Screenshot Output Unguided 1_1](https://github.com/eridaylm/10902500221_Eridayalma/blob/main/Modul2/Output/output-soal3.png)
+![Screenshot Output Unguided 1_1](https://github.com/eridaylm/10902500221_Eridayalma/blob/main/Modul3/Output/output-soal3.png)
 Penjelasan :
 Program ini tentang posisi sebuah titik terhadap dua lingkaran, sebuah lingkaran ditentukan oleh:
     - titik pusat (cx, cy)
